@@ -1,6 +1,6 @@
 const SHEET_ID = "1gyzPFtG3ubxzrqGEtQI-dr4aiExDU6Fx0tzFS2W4iG8";
 
-const API_URL = "https://script.google.com/macros/s/AKfycbxnXBqQds1M8OeI9Bw4W5fiU4PitPydsveH09uc1JUhwwY04kezpWak-a55n2DSmHs93A/exec";
+const API_URL = "https://script.google.com/macros/s/AKfycbyH79xP2vAQ3wQ-VAn3zMZECgYO6H6xs41_3sDBu4Wa_vm5aiOIUyBBd66LgSZkqAK_/exec";
 
 const TEAMS_URL =
   `https://docs.google.com/spreadsheets/d/${SHEET_ID}/gviz/tq?sheet=Teams&tqx=out:json`;
