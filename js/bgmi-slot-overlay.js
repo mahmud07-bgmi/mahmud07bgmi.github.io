@@ -1,4 +1,4 @@
-const API_URL = "https://script.google.com/macros/s/AKfycbxEv6klLXzCTBY9QDtO0HaVQTePioPzJVNnDaehogrojk-6mC6Hi6riGj5TNcTjiBm0Zw/exec";
+const API_URL = "https://script.google.com/macros/s/AKfycbxnXBqQds1M8OeI9Bw4W5fiU4PitPydsveH09uc1JUhwwY04kezpWak-a55n2DSmHs93A/exec";
 
 const SHEET_ID = "1gyzPFtG3ubxzrqGEtQI-dr4aiExDU6Fx0tzFS2W4iG8";
 
